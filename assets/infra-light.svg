@@ -1,92 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Self-hosted infrastructure: Cloudflare to Traefik, fanning out to product services and internal tools, with offsite backups">
-<rect width="900" height="340" fill="#ffffff"/>
-<text x="450.0" y="26" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-        font-size="13" font-weight="700" fill="#1a4f8a" letter-spacing="1.4">SELF-HOSTED ESTATE</text>
-<text x="450.0" y="44" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-        font-size="10.5" fill="#59636e">19 services, two Linux servers, no managed platform</text>
-
-  <g>
-    <rect x="360" y="62" width="180" height="46" rx="8"
-          fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-    <text x="450.0" y="84" text-anchor="middle"
-          font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-          font-size="13" font-weight="600" fill="#1f2328">Cloudflare</text>
-    <text x="450.0" y="102" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">DNS · CDN · TLS · email auth</text>
-  </g>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Self-hosted estate: 17 services across 2 servers">
+  <rect width="900" height="340" fill="#ffffff"/>
+  <text x="450.0" y="26" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#1a4f8a" letter-spacing="1.4">SELF-HOSTED ESTATE</text>
+  <text x="450.0" y="44" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">17 services across 2 Linux servers, 4 projects, no managed platform</text>
+  <rect x="360" y="62" width="180" height="46" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="450.0" y="84" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Cloudflare</text>
+  <text x="450.0" y="102" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">DNS · CDN · TLS · email auth</text>
   <path d="M 450 108 L 450 136" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
   <circle r="3" fill="#12c4d7" opacity="0">
     <animateMotion dur="1.5s" begin="0.0s" repeatCount="indefinite" path="M 450 108 L 450 136"/>
-    <animate attributeName="opacity" dur="1.5s" begin="0.0s" repeatCount="indefinite"
-             values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
+    <animate attributeName="opacity" dur="1.5s" begin="0.0s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
   </circle>
-
-  <g>
-    <rect x="360" y="136" width="180" height="46" rx="8"
-          fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-    <text x="450.0" y="158" text-anchor="middle"
-          font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-          font-size="13" font-weight="600" fill="#1f2328">Traefik</text>
-    <text x="450.0" y="176" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">routing · automatic TLS</text>
-  </g>
-
+  <rect x="360" y="136" width="180" height="46" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="450.0" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Traefik</text>
+  <text x="450.0" y="176" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">routing · automatic TLS</text>
   <path d="M 400 182 L 190 218" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
   <circle r="3" fill="#12c4d7" opacity="0">
     <animateMotion dur="2.6s" begin="0.2s" repeatCount="indefinite" path="M 400 182 L 190 218"/>
-    <animate attributeName="opacity" dur="2.6s" begin="0.2s" repeatCount="indefinite"
-             values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
+    <animate attributeName="opacity" dur="2.6s" begin="0.2s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
   </circle>
-
-  <path d="M 500 182 L 710 218" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
-  <circle r="3" fill="#12c4d7" opacity="0">
-    <animateMotion dur="2.6s" begin="0.5s" repeatCount="indefinite" path="M 500 182 L 710 218"/>
-    <animate attributeName="opacity" dur="2.6s" begin="0.5s" repeatCount="indefinite"
-             values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
-  </circle>
-
   <path d="M 450 182 L 450 218" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
   <circle r="3" fill="#12c4d7" opacity="0">
     <animateMotion dur="2.6s" begin="0.35s" repeatCount="indefinite" path="M 450 182 L 450 218"/>
-    <animate attributeName="opacity" dur="2.6s" begin="0.35s" repeatCount="indefinite"
-             values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
+    <animate attributeName="opacity" dur="2.6s" begin="0.35s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
   </circle>
-
-  <g>
-    <rect x="60" y="218" width="260" height="54" rx="8"
-          fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-    <text x="190.0" y="240" text-anchor="middle"
-          font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-          font-size="13" font-weight="600" fill="#1f2328">Product services</text>
-    <text x="190.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">API · web console · identity · Postgres</text>
-  </g>
-
-  <g>
-    <rect x="340" y="218" width="220" height="54" rx="8"
-          fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-    <text x="450.0" y="240" text-anchor="middle"
-          font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-          font-size="13" font-weight="600" fill="#1f2328">Object storage</text>
-    <text x="450.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">S3-compatible</text>
-  </g>
-
-  <g>
-    <rect x="580" y="218" width="260" height="54" rx="8"
-          fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-    <text x="710.0" y="240" text-anchor="middle"
-          font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-          font-size="13" font-weight="600" fill="#1f2328">Internal tools</text>
-    <text x="710.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">PM · wiki · vault · support · finance · HR</text>
-  </g>
-
+  <path d="M 500 182 L 710 218" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
+  <circle r="3" fill="#12c4d7" opacity="0">
+    <animateMotion dur="2.6s" begin="0.5s" repeatCount="indefinite" path="M 500 182 L 710 218"/>
+    <animate attributeName="opacity" dur="2.6s" begin="0.5s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
+  </circle>
+  <rect x="60" y="218" width="260" height="54" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="190.0" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Product services</text>
+  <text x="190.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">API · web console · identity · Postgres</text>
+  <rect x="340" y="218" width="220" height="54" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="450.0" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Object storage</text>
+  <text x="450.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">S3-compatible</text>
+  <rect x="580" y="218" width="260" height="54" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="710.0" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Internal tools</text>
+  <text x="710.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">PM · wiki · vault · support · finance · HR</text>
   <path d="M 450 272 L 450 300" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
   <circle r="3" fill="#12c4d7" opacity="0">
     <animateMotion dur="2.0s" begin="1.1s" repeatCount="indefinite" path="M 450 272 L 450 300"/>
-    <animate attributeName="opacity" dur="2.0s" begin="1.1s" repeatCount="indefinite"
-             values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
+    <animate attributeName="opacity" dur="2.0s" begin="1.1s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.15;0.85;1"/>
   </circle>
-<text x="450.0" y="316" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-        font-size="11" fill="#59636e">nightly offsite backups</text>
-</svg>
+  <text x="450.0" y="316" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#59636e">nightly offsite backups</text>
+  </svg>

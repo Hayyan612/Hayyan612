@@ -1,0 +1,42 @@
+name: Refresh infrastructure diagram
+
+on:
+  # Once a day, so the diagram tracks the estate without manual work.
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # Secrets are optional. Without them the script reuses the committed
+      # counts, so the workflow still succeeds and the diagram stays correct.
+      - name: Regenerate diagram
+        env:
+          DOKPLOY_URL: ${{ secrets.DOKPLOY_URL }}
+          DOKPLOY_API_KEY: ${{ secrets.DOKPLOY_API_KEY }}
+        run: python3 scripts/generate-infra-svg.py
+
+      - name: Commit if the counts changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Nothing to do on most days; only commit a real diff.
+          if git diff --quiet -- assets/; then
+            echo "no change"
+            exit 0
+          fi
+          git add assets/
+          git commit -m "chore: refresh infrastructure diagram"
+          git push
