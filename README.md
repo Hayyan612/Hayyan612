@@ -6,6 +6,8 @@ Currently **Tech Lead at [PlanetPulse](https://planetpulse.life)** — leading a
 
 > Most of my recent work lives in private organisation repositories, so this profile shows less than it should. Happy to walk through any of it.
 
+**[dokploy-selfhost-starter](https://github.com/Hayyan612/dokploy-selfhost-starter)** — the patterns behind that estate, written up: DNS and email authentication, monorepo Dockerfiles, Compose, backups, and the things that bite you in production.
+
 ### What I'm working on
 
 **Notch** — a platform manufacturing plants use to report and resolve workplace safety hazards before they cause injuries. Three surfaces, all live in production: a NestJS API, a Next.js console for safety officers, and a React Native app for plant workers. Multi-tenant, with deadline escalation for overdue reports and localisation into 7 languages including right-to-left Arabic.
