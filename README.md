@@ -26,6 +26,18 @@
 
 ---
 
+## How I run things
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/infra-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/infra-light.svg" />
+  <img alt="Self-hosted infrastructure diagram" src="assets/infra-light.svg" width="100%" />
+</picture>
+
+Hand-drawn SVG, no third-party widget. Rendered with SMIL rather than CSS keyframes, because GitHub proxies images through Camo as `<img>`, where CSS animations do not reliably run.
+
+---
+
 ## Featured
 
 <table>
