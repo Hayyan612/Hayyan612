@@ -34,8 +34,6 @@
   <img alt="Self-hosted infrastructure diagram" src="assets/infra-light.svg" width="100%" />
 </picture>
 
-Hand-drawn SVG, no third-party widget. Rendered with SMIL rather than CSS keyframes, because GitHub proxies images through Camo as `<img>`, where CSS animations do not reliably run.
-
 ---
 
 ## Featured
