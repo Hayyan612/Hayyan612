@@ -22,7 +22,7 @@
 
 **🖥️ &nbsp;Infrastructure** &nbsp;·&nbsp; 17 production services across two Linux servers, on Dokploy and Traefik rather than a managed cloud platform. DNS, CDN and email authentication on Cloudflare; offsite backups to Backblaze B2. I also moved the company off paid SaaS subscriptions onto a self-hosted open-source stack covering project management, wiki, password vault, customer support, finance and HR.
 
-**📱 &nbsp;Consulting** &nbsp;·&nbsp; retained as technical consultant on a connected-hardware mobile platform, covering system and API architecture, hands-on development, code review and release support, including a typed React Native SDK over the device's Bluetooth Low Energy protocol.
+**📱 &nbsp;Consulting** &nbsp;·&nbsp; retained as technical consultant on a connected-hardware mobile platform, covering system and API architecture, hands-on development, code review and release support, running their self-hosted infrastructure, and a typed React Native SDK over the device's Bluetooth Low Energy protocol.
 
 ---
 
