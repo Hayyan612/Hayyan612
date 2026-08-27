@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4f8a,100:12c4d7&height=170&section=header&text=Hayyan%20Hajwani&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Full-stack%20engineer%20%C2%B7%20Tech%20Lead%20at%20PlanetPulse&descAlignY=54&descSize=16" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4f8a,100:12c4d7&height=170&section=header&text=Hayyan%20Hajwani&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Full-stack%20engineer%20%C2%B7%20Tech%20Lead%20at%20PlanetPulse&descAlignY=54&descSize=16&animation=none" alt="" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hayyan-hajwani-9671a4160"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -39,8 +39,6 @@ Patterns for running a small company's products and internal tools on your own s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-<br />
-![Stars](https://img.shields.io/github/stars/Hayyan612/dokploy-selfhost-starter?style=flat-square&color=12c4d7)
 
 </td>
 <td width="50%" valign="top">
@@ -52,8 +50,6 @@ Real-time chat as three independent Node.js services behind a Next.js client. Pa
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-<br />
-![Stars](https://img.shields.io/github/stars/Hayyan612/chat-app-microservices?style=flat-square&color=12c4d7)
 
 </td>
 </tr>
