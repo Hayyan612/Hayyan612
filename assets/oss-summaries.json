@@ -1,0 +1,7 @@
+{
+  "career-ops-hq/career-ops": "Liveness checks reusing a closed browser page",
+  "fosrl/pangolin": "Backup file names, systemd unit path, site badge",
+  "makeplane/plane": "Export URLs over TLS, live server CORS fallback",
+  "SigNoz/signoz": "Log pagination state, unused alert rules code",
+  "papra-hq/papra": "API key scopes on trash routes, task driver docs"
+}

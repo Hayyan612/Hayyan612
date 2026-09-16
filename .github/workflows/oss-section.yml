@@ -33,10 +33,10 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Nothing to do on most days; only commit a real diff.
-          if git diff --quiet -- README.md; then
+          if [ -z "$(git status --porcelain -- README.md assets/)" ]; then
             echo "no change"
             exit 0
           fi
-          git add README.md
+          git add README.md assets/
           git commit -m "chore: refresh open-source section"
           git push
