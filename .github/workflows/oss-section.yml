@@ -1,0 +1,42 @@
+name: Refresh open-source section
+
+on:
+  # Once a day, so merged and newly opened pull requests show up without manual edits.
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # The query is limited to public repositories, so the token's wider
+      # access can never leak private work into the README.
+      - name: Regenerate section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 scripts/generate-oss-section.py
+
+      - name: Commit if the section changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Nothing to do on most days; only commit a real diff.
+          if git diff --quiet -- README.md; then
+            echo "no change"
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore: refresh open-source section"
+          git push

@@ -26,6 +26,36 @@
 
 ---
 
+<!-- oss:start -->
+
+## Open source
+
+Pull requests I have sent to other people's projects, refreshed daily from GitHub.
+
+**Merged**
+
+| Project | Pull request | Merged |
+|---|---|---|
+| [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) ★ 71.8k | [#4232](https://github.com/career-ops-hq/career-ops/pull/4232) Stop reusing the headed page after its browser closes | 2026-09-16 |
+| [fosrl/pangolin](https://github.com/fosrl/pangolin) ★ 22.8k | [#3772](https://github.com/fosrl/pangolin/pull/3772) Fall back to newtVersion so the Type badge is never empty | 2026-09-16 |
+| [fosrl/pangolin](https://github.com/fosrl/pangolin) ★ 22.8k | [#3770](https://github.com/fosrl/pangolin/pull/3770) Point the manual systemd unit at the installed CLI path | 2026-09-16 |
+| [fosrl/pangolin](https://github.com/fosrl/pangolin) ★ 22.8k | [#3769](https://github.com/fosrl/pangolin/pull/3769) Correct month index and zero-pad database backup file names | 2026-09-16 |
+
+**In review**
+
+| Project | Pull request | Opened |
+|---|---|---|
+| [makeplane/plane](https://github.com/makeplane/plane) ★ 59.5k | [#9844](https://github.com/makeplane/plane/pull/9844) Drop empty CORS origins so the deny-all fallback is reachable | 2026-09-16 |
+| [papra-hq/papra](https://github.com/papra-hq/papra) ★ 5.5k | [#1522](https://github.com/papra-hq/papra/pull/1522) Declare api key permissions on restore and trash routes | 2026-09-16 |
+| [papra-hq/papra](https://github.com/papra-hq/papra) ★ 5.5k | [#1521](https://github.com/papra-hq/papra/pull/1521) Say what the memory persistence driver costs on restart | 2026-09-16 |
+| [SigNoz/signoz](https://github.com/SigNoz/signoz) ★ 32.1k | [#12878](https://github.com/SigNoz/signoz/pull/12878) Accumulate log pages with a functional state update | 2026-09-16 |
+| [SigNoz/signoz](https://github.com/SigNoz/signoz) ★ 32.1k | [#12877](https://github.com/SigNoz/signoz/pull/12877) Remove unused Manager.Pause method | 2026-09-16 |
+| [makeplane/plane](https://github.com/makeplane/plane) ★ 59.5k | [#9842](https://github.com/makeplane/plane/pull/9842) Honour MINIO_ENDPOINT_SSL when building export presigned URLs | 2026-09-16 |
+
+<!-- oss:end -->
+
+---
+
 ## How I run things
 
 <picture>
