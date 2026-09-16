@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="424" viewBox="0 0 820 424" role="img" aria-label="Open source: 4 merged and 6 in review pull requests across 5 projects">
   <rect width="820" height="424" fill="#0d1117"/>
-  <text x="16" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#58a6ff" letter-spacing="1.4">OPEN SOURCE</text>
-  <text x="16" y="50" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Pull requests to other people's projects</text>
+  <text x="16" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#58a6ff" letter-spacing="1.4">UPSTREAM PULL REQUESTS</text>
+  <text x="16" y="50" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Sent to other people's projects</text>
   <text x="752" y="44" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">projects</text>
   <text x="734" y="44" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#58a6ff">5</text>
   <text x="653" y="44" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">in review</text>

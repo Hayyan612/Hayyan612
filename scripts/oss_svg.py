@@ -58,9 +58,9 @@ def short_count(n):
 def header(t, merged, in_review, projects):
     stats = [(merged, "merged", t["merged"]), (in_review, "in review", t["open"]), (projects, "projects", t["accent"])]
     out = [f'<text x="{PAD}" y="30" font-family="{FONT}" font-size="13" font-weight="700" '
-           f'fill="{t["accent"]}" letter-spacing="1.4">OPEN SOURCE</text>',
+           f'fill="{t["accent"]}" letter-spacing="1.4">UPSTREAM PULL REQUESTS</text>',
            f'<text x="{PAD}" y="50" font-family="{FONT}" font-size="12" fill="{t["muted"]}">'
-           f'Pull requests to other people\'s projects</text>']
+           f'Sent to other people\'s projects</text>']
     x = W - PAD
     for value, label, colour in reversed(stats):
         label_w = text_width(label, 12)
