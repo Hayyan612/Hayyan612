@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/oss-light.svg" />
-    <img alt="Open source: 4 merged and 6 in review pull requests" src="assets/oss-light.svg" width="100%" />
+    <img alt="Open source: 5 merged and 12 in review pull requests" src="assets/oss-light.svg" width="100%" />
   </picture>
 </a>
 
@@ -45,10 +45,17 @@
 
 | Status | Project | Pull request | Date |
 |---|---|---|---|
+| Merged | [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) | [#4079](https://github.com/Mentra-Community/MentraOS/pull/4079) Fix miniapp-cli dev watcher for Windows path separators | 2026-09-17 |
 | Merged | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | [#4232](https://github.com/career-ops-hq/career-ops/pull/4232) Stop reusing the headed page after its browser closes | 2026-09-16 |
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3772](https://github.com/fosrl/pangolin/pull/3772) Fall back to newtVersion so the Type badge is never empty | 2026-09-16 |
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3770](https://github.com/fosrl/pangolin/pull/3770) Point the manual systemd unit at the installed CLI path | 2026-09-16 |
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3769](https://github.com/fosrl/pangolin/pull/3769) Correct month index and zero-pad database backup file names | 2026-09-16 |
+| In review | [embeddedos-org/eOffice](https://github.com/embeddedos-org/eOffice) | [#45](https://github.com/embeddedos-org/eOffice/pull/45) Keep imported note tags from injecting HTML and script | 2026-09-17 |
+| In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7024](https://github.com/growthbook/growthbook/pull/7024) Reject cron update schedules that run more than once an hour | 2026-09-17 |
+| In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-09-17 |
+| In review | [actualbudget/actual](https://github.com/actualbudget/actual) | [#8954](https://github.com/actualbudget/actual/pull/8954) [WIP] [AI] Refuse password bootstrap when OpenID is enforced | 2026-09-16 |
+| In review | [Dokploy/website](https://github.com/Dokploy/website) | [#184](https://github.com/Dokploy/website/pull/184) Explain intermittent Bad Gateway for Next.js standalone in Compose | 2026-09-16 |
+| In review | [Dokploy/website](https://github.com/Dokploy/website) | [#183](https://github.com/Dokploy/website/pull/183) Target the dokploy container in the auth secret migration script | 2026-09-16 |
 | In review | [makeplane/plane](https://github.com/makeplane/plane) | [#9844](https://github.com/makeplane/plane/pull/9844) Drop empty CORS origins so the deny-all fallback is reachable | 2026-09-16 |
 | In review | [papra-hq/papra](https://github.com/papra-hq/papra) | [#1522](https://github.com/papra-hq/papra/pull/1522) Declare api key permissions on restore and trash routes | 2026-09-16 |
 | In review | [papra-hq/papra](https://github.com/papra-hq/papra) | [#1521](https://github.com/papra-hq/papra/pull/1521) Say what the memory persistence driver costs on restart | 2026-09-16 |
