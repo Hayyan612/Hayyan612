@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/oss-light.svg" />
-    <img alt="Open source: 5 merged and 12 in review pull requests" src="assets/oss-light.svg" width="100%" />
+    <img alt="Open source: 42 merged and 12 in review pull requests" src="assets/oss-light.svg" width="100%" />
   </picture>
 </a>
 
@@ -45,11 +45,48 @@
 
 | Status | Project | Pull request | Date |
 |---|---|---|---|
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#149](https://github.com/CetizionVerifica/cetizion-tracker/pull/149) Make an unreachable client visible, and stop the inbox making two of them (gap 2) | 2026-09-30 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#145](https://github.com/CetizionVerifica/cetizion-tracker/pull/145) Type a client contact's email where you actually work (gap 1) | 2026-09-29 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#144](https://github.com/CetizionVerifica/cetizion-tracker/pull/144) Client data gaps and the My Today plan, reviewed and extended | 2026-09-29 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#139](https://github.com/CetizionVerifica/cetizion-tracker/pull/139) One tool for counting, and the two money questions | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#138](https://github.com/CetizionVerifica/cetizion-tracker/pull/138) Feed any kind of record in, not just a sales sheet | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#140](https://github.com/CetizionVerifica/cetizion-tracker/pull/140) Duplicate companies were pairs, and some of them were wrong | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#135](https://github.com/CetizionVerifica/cetizion-tracker/pull/135) Plan and commit a sheet import from a conversation | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#136](https://github.com/CetizionVerifica/cetizion-tracker/pull/136) The inbox membership test matched nothing, and tasks went missing | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#133](https://github.com/CetizionVerifica/cetizion-tracker/pull/133) MCP tools for the inbox, payables, data gaps and tasks | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#132](https://github.com/CetizionVerifica/cetizion-tracker/pull/132) A printable page for people who will never read docs/mcp.md | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#131](https://github.com/CetizionVerifica/cetizion-tracker/pull/131) Show what the MCP can do, not just which tools exist | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#130](https://github.com/CetizionVerifica/cetizion-tracker/pull/130) Typed output, a page that fits, and a tool that never worked | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#127](https://github.com/CetizionVerifica/cetizion-tracker/pull/127) Stop the weekly dependency chore, keep the security net | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#126](https://github.com/CetizionVerifica/cetizion-tracker/pull/126) Show the app, with invented clients | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#125](https://github.com/CetizionVerifica/cetizion-tracker/pull/125) A README that says what this is now | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#124](https://github.com/CetizionVerifica/cetizion-tracker/pull/124) Only providers that keep nothing, and four ways to fall over | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#123](https://github.com/CetizionVerifica/cetizion-tracker/pull/123) A re-upload stops reverting what a person corrected | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#122](https://github.com/CetizionVerifica/cetizion-tracker/pull/122) A milestone is the project's, and the export is not a second door | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#117](https://github.com/CetizionVerifica/cetizion-tracker/pull/117) A failed load no longer says the money is all collected | 2026-09-28 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#113](https://github.com/CetizionVerifica/cetizion-tracker/pull/113) A reply is its own words, with the history one click away | 2026-09-25 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#109](https://github.com/CetizionVerifica/cetizion-tracker/pull/109) The two settings that decide what syncs had no control | 2026-09-25 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#108](https://github.com/CetizionVerifica/cetizion-tracker/pull/108) Re-land the inbox row preview (#107 never reached main) | 2026-09-25 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#107](https://github.com/CetizionVerifica/cetizion-tracker/pull/107) Inbox row: a preview line, and a dot for what nobody has opened | 2026-09-25 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#106](https://github.com/CetizionVerifica/cetizion-tracker/pull/106) The reading pane says which of our addresses the thread came to | 2026-09-25 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#105](https://github.com/CetizionVerifica/cetizion-tracker/pull/105) Opening an email no longer tells the sender you read it | 2026-09-25 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#104](https://github.com/CetizionVerifica/cetizion-tracker/pull/104) An inbox can be deleted, and the delete says what it takes with it | 2026-09-24 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#102](https://github.com/CetizionVerifica/cetizion-tracker/pull/102) The inbox setup screen renders, and has a way in | 2026-09-24 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#99](https://github.com/CetizionVerifica/cetizion-tracker/pull/99) Three things that made a working mailbox look broken | 2026-09-24 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#97](https://github.com/CetizionVerifica/cetizion-tracker/pull/97) The Synced column says whether a sync ran, not just how it would | 2026-09-24 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#96](https://github.com/CetizionVerifica/cetizion-tracker/pull/96) A mailbox that fails to sync says so, instead of looking healthy | 2026-09-24 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#95](https://github.com/CetizionVerifica/cetizion-tracker/pull/95) Motion that was never wired up, and feedback the redirect was eating | 2026-09-24 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#93](https://github.com/CetizionVerifica/cetizion-tracker/pull/93) Tailwind 4 + shadcn foundation (v2 design tokens) | 2026-09-24 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#92](https://github.com/CetizionVerifica/cetizion-tracker/pull/92) TypeScript, one file at a time | 2026-09-22 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#91](https://github.com/CetizionVerifica/cetizion-tracker/pull/91) The shared password guard only applies when shared sign-in is in use | 2026-09-22 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#82](https://github.com/CetizionVerifica/cetizion-tracker/pull/82) Show how an import was planned, not which model read the sheet | 2026-09-20 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#63](https://github.com/CetizionVerifica/cetizion-tracker/pull/63) Ask for a review on every pull request | 2026-09-17 |
 | Merged | [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) | [#4079](https://github.com/Mentra-Community/MentraOS/pull/4079) Fix miniapp-cli dev watcher for Windows path separators | 2026-09-17 |
 | Merged | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | [#4232](https://github.com/career-ops-hq/career-ops/pull/4232) Stop reusing the headed page after its browser closes | 2026-09-16 |
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3772](https://github.com/fosrl/pangolin/pull/3772) Fall back to newtVersion so the Type badge is never empty | 2026-09-16 |
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3770](https://github.com/fosrl/pangolin/pull/3770) Point the manual systemd unit at the installed CLI path | 2026-09-16 |
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3769](https://github.com/fosrl/pangolin/pull/3769) Correct month index and zero-pad database backup file names | 2026-09-16 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#16](https://github.com/CetizionVerifica/cetizion-tracker/pull/16) Migrations on deploy, CI checks, and deploys gated on CI | 2026-09-15 |
 | In review | [embeddedos-org/eOffice](https://github.com/embeddedos-org/eOffice) | [#45](https://github.com/embeddedos-org/eOffice/pull/45) Keep imported note tags from injecting HTML and script | 2026-09-17 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7024](https://github.com/growthbook/growthbook/pull/7024) Reject cron update schedules that run more than once an hour | 2026-09-17 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-09-17 |
