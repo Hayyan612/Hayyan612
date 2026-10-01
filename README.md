@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/oss-light.svg" />
-    <img alt="Open source: 42 merged and 12 in review pull requests" src="assets/oss-light.svg" width="100%" />
+    <img alt="Open source: 45 merged and 12 in review pull requests" src="assets/oss-light.svg" width="100%" />
   </picture>
 </a>
 
@@ -45,6 +45,9 @@
 
 | Status | Project | Pull request | Date |
 |---|---|---|---|
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#154](https://github.com/CetizionVerifica/cetizion-tracker/pull/154) The chart style from sales-tracker, on Cetizion's tokens | 2026-09-30 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#153](https://github.com/CetizionVerifica/cetizion-tracker/pull/153) The settings menu crashed the app to a black screen | 2026-09-30 |
+| Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#152](https://github.com/CetizionVerifica/cetizion-tracker/pull/152) Light mode, and three report charts to match sales-tracker | 2026-09-30 |
 | Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#149](https://github.com/CetizionVerifica/cetizion-tracker/pull/149) Make an unreachable client visible, and stop the inbox making two of them (gap 2) | 2026-09-30 |
 | Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#145](https://github.com/CetizionVerifica/cetizion-tracker/pull/145) Type a client contact's email where you actually work (gap 1) | 2026-09-29 |
 | Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#144](https://github.com/CetizionVerifica/cetizion-tracker/pull/144) Client data gaps and the My Today plan, reviewed and extended | 2026-09-29 |
