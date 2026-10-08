@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/oss-light.svg" />
-    <img alt="Open source: 46 merged and 10 in review pull requests" src="assets/oss-light.svg" width="100%" />
+    <img alt="Open source: 46 merged and 11 in review pull requests" src="assets/oss-light.svg" width="100%" />
   </picture>
 </a>
 
@@ -91,6 +91,7 @@
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3770](https://github.com/fosrl/pangolin/pull/3770) Point the manual systemd unit at the installed CLI path | 2026-09-16 |
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3769](https://github.com/fosrl/pangolin/pull/3769) Correct month index and zero-pad database backup file names | 2026-09-16 |
 | Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#16](https://github.com/CetizionVerifica/cetizion-tracker/pull/16) Migrations on deploy, CI checks, and deploys gated on CI | 2026-09-15 |
+| In review | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#230](https://github.com/CetizionVerifica/cetizion-tracker/pull/230) No attachment of any message was ever stored | 2026-10-08 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7024](https://github.com/growthbook/growthbook/pull/7024) Reject cron update schedules that run more than once an hour | 2026-09-17 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-09-17 |
 | In review | [Dokploy/website](https://github.com/Dokploy/website) | [#184](https://github.com/Dokploy/website/pull/184) Explain intermittent Bad Gateway for Next.js standalone in Compose | 2026-09-16 |
