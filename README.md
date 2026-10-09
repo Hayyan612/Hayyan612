@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/oss-light.svg" />
-    <img alt="Open source: 46 merged and 11 in review pull requests" src="assets/oss-light.svg" width="100%" />
+    <img alt="Open source: 84 merged and 11 in review pull requests" src="assets/oss-light.svg" width="100%" />
   </picture>
 </a>
 
@@ -91,6 +91,44 @@
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3770](https://github.com/fosrl/pangolin/pull/3770) Point the manual systemd unit at the installed CLI path | 2026-09-16 |
 | Merged | [fosrl/pangolin](https://github.com/fosrl/pangolin) | [#3769](https://github.com/fosrl/pangolin/pull/3769) Correct month index and zero-pad database backup file names | 2026-09-16 |
 | Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#16](https://github.com/CetizionVerifica/cetizion-tracker/pull/16) Migrations on deploy, CI checks, and deploys gated on CI | 2026-09-15 |
+| Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#16](https://github.com/CetizionVerifica/python_AI_service/pull/16) Transport (Cat 13/18): per-unit spec in bulk upload; dead pooled connection fix | 2026-09-06 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#59](https://github.com/CetizionVerifica/ESG-lite_FE/pull/59) Transport (Cat 13/18): real weight/distance fields, Calculation tab, Rail distance | 2026-09-06 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#46](https://github.com/CetizionVerifica/ESG-lite/pull/46) Transport (Cat 13/18): weight & distance stored, per-unit calculation spec | 2026-09-06 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#58](https://github.com/CetizionVerifica/ESG-lite_FE/pull/58) Review fixes for #57: preserve activity_data shape, restore site-comparison guard | 2026-09-03 |
+| Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#15](https://github.com/CetizionVerifica/python_AI_service/pull/15) Spec-aware bulk upload + Cloudinary document storage, with review fixes | 2026-09-03 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#56](https://github.com/CetizionVerifica/ESG-lite_FE/pull/56) Use of Sold Products entry form + bulk upload, with review fixes | 2026-09-03 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#45](https://github.com/CetizionVerifica/ESG-lite/pull/45) Use of Sold Products (Scope 3 Cat 11) + spec-aware bulk upload, with review fixes | 2026-09-03 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#40](https://github.com/CetizionVerifica/ESG-lite/pull/40) Parse multipart body on company onboarding endpoint | 2026-08-21 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#29](https://github.com/CetizionVerifica/ESG-lite/pull/29) Unlink invoices when deleting a category | 2026-06-11 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#28](https://github.com/CetizionVerifica/ESG-lite/pull/28) Allow deleting a site-assigned category | 2026-06-11 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#42](https://github.com/CetizionVerifica/ESG-lite_FE/pull/42) Category modal UX, session refresh, smart-upload factor names | 2026-06-11 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#27](https://github.com/CetizionVerifica/ESG-lite/pull/27) Category-site assignment, session refresh, resilient EF lookup | 2026-06-11 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#41](https://github.com/CetizionVerifica/ESG-lite_FE/pull/41) Sheet picker + column mapping in SmartUpload, paginated emissio… | 2026-04-12 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#26](https://github.com/CetizionVerifica/ESG-lite/pull/26) Add server-side pagination, filtering, and search to emission f… | 2026-04-12 |
+| Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#12](https://github.com/CetizionVerifica/python_AI_service/pull/12) Add sheet picker, column mapping UI, and data validation for sm… | 2026-04-12 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#40](https://github.com/CetizionVerifica/ESG-lite_FE/pull/40) Bug/sheet cycle 3 | 2026-04-05 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#39](https://github.com/CetizionVerifica/ESG-lite_FE/pull/39) My Emissions edit modal uses card layout, filter internal keys f… | 2026-04-04 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#38](https://github.com/CetizionVerifica/ESG-lite_FE/pull/38) Bug/sheet cycle 3 | 2026-04-04 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#25](https://github.com/CetizionVerifica/ESG-lite/pull/25) Bug/sheet cycle 3 | 2026-04-04 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#37](https://github.com/CetizionVerifica/ESG-lite_FE/pull/37) Remove SSE, use 10s polling (cross-origin EventSource not suppor… | 2026-03-29 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#36](https://github.com/CetizionVerifica/ESG-lite_FE/pull/36) Trigger toast popup from polling when unread count increases | 2026-03-29 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#35](https://github.com/CetizionVerifica/ESG-lite_FE/pull/35) Switch to 10s polling for production (App Platform kills SSE con… | 2026-03-29 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#24](https://github.com/CetizionVerifica/ESG-lite/pull/24) Add queue success/failure logging for email debugging | 2026-03-29 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#34](https://github.com/CetizionVerifica/ESG-lite_FE/pull/34) Dropdown opens upward when near bottom of viewport | 2026-03-29 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#23](https://github.com/CetizionVerifica/ESG-lite/pull/23) Move @types/amqplib and @types/node-cron to dependencies for pro… | 2026-03-29 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#22](https://github.com/CetizionVerifica/ESG-lite/pull/22) Add explicit types for strict mode compatibility in production b… | 2026-03-29 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#21](https://github.com/CetizionVerifica/ESG-lite/pull/21) Feat/sheet cycle 3 extra | 2026-03-29 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#33](https://github.com/CetizionVerifica/ESG-lite_FE/pull/33) Feat/sheet cycle 3 extra | 2026-03-29 |
+| Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#11](https://github.com/CetizionVerifica/python_AI_service/pull/11) OCR prompt improvements for kWh vs kVAh and refrigerant gas accu… | 2026-03-29 |
+| Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#10](https://github.com/CetizionVerifica/python_AI_service/pull/10) Use ThreadedConnectionPool and fix connection leaks causing pool… | 2026-03-23 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#31](https://github.com/CetizionVerifica/ESG-lite_FE/pull/31) Multiple bug fixes across production data, emissions, and map fe… | 2026-03-22 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#20](https://github.com/CetizionVerifica/ESG-lite/pull/20) Bug/sheet cycle 2 | 2026-03-22 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#29](https://github.com/CetizionVerifica/ESG-lite_FE/pull/29) Feat/sheet cycle 2 | 2026-03-19 |
+| Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#9](https://github.com/CetizionVerifica/python_AI_service/pull/9) Feat/sheet cycle 2 | 2026-03-19 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#18](https://github.com/CetizionVerifica/ESG-lite/pull/18) Feat/sheet cycle 2 | 2026-03-19 |
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#26](https://github.com/CetizionVerifica/ESG-lite_FE/pull/26) Compress column_options payload to fix 413 on auto-generate confirm | 2026-03-14 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#14](https://github.com/CetizionVerifica/ESG-lite/pull/14) Fix 413 payload too large on auto-generate column config confirm | 2026-03-14 |
+| Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#7](https://github.com/CetizionVerifica/python_AI_service/pull/7) Fix zero emission calculation in bulk upload by adding ECM table fall… | 2026-03-14 |
 | In review | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#230](https://github.com/CetizionVerifica/cetizion-tracker/pull/230) No attachment of any message was ever stored | 2026-10-08 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7024](https://github.com/growthbook/growthbook/pull/7024) Reject cron update schedules that run more than once an hour | 2026-09-17 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-09-17 |
