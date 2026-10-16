@@ -45,6 +45,8 @@
 
 | Status | Project | Pull request | Date |
 |---|---|---|---|
+| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#207](https://github.com/CetizionVerifica/ESG-lite_FE/pull/207) [S3-5 follow-up] Spend rows: rate error state, visible field errors, yearly rate date | 2026-10-16 |
+| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#158](https://github.com/CetizionVerifica/ESG-lite/pull/158) [S3-5 follow-up] Currency rows store fx, stand-in rates re-quoted, lighter FX job | 2026-10-16 |
 | Merged | [embeddedos-org/eOffice](https://github.com/embeddedos-org/eOffice) | [#45](https://github.com/embeddedos-org/eOffice/pull/45) Keep imported note tags from injecting HTML and script | 2026-10-02 |
 | Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#154](https://github.com/CetizionVerifica/cetizion-tracker/pull/154) The chart style from sales-tracker, on Cetizion's tokens | 2026-09-30 |
 | Merged | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#153](https://github.com/CetizionVerifica/cetizion-tracker/pull/153) The settings menu crashed the app to a black screen | 2026-09-30 |
@@ -126,9 +128,7 @@
 | Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#29](https://github.com/CetizionVerifica/ESG-lite_FE/pull/29) Feat/sheet cycle 2 | 2026-03-19 |
 | Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#9](https://github.com/CetizionVerifica/python_AI_service/pull/9) Feat/sheet cycle 2 | 2026-03-19 |
 | Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#18](https://github.com/CetizionVerifica/ESG-lite/pull/18) Feat/sheet cycle 2 | 2026-03-19 |
-| Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#26](https://github.com/CetizionVerifica/ESG-lite_FE/pull/26) Compress column_options payload to fix 413 on auto-generate confirm | 2026-03-14 |
 | Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#14](https://github.com/CetizionVerifica/ESG-lite/pull/14) Fix 413 payload too large on auto-generate column config confirm | 2026-03-14 |
-| Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#7](https://github.com/CetizionVerifica/python_AI_service/pull/7) Fix zero emission calculation in bulk upload by adding ECM table fall… | 2026-03-14 |
 | In review | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#230](https://github.com/CetizionVerifica/cetizion-tracker/pull/230) No attachment of any message was ever stored | 2026-10-08 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7024](https://github.com/growthbook/growthbook/pull/7024) Reject cron update schedules that run more than once an hour | 2026-09-17 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-09-17 |
