@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/oss-light.svg" />
-    <img alt="Open source: 84 merged and 11 in review pull requests" src="assets/oss-light.svg" width="100%" />
+    <img alt="Open source: 85 merged and 10 in review pull requests" src="assets/oss-light.svg" width="100%" />
   </picture>
 </a>
 
@@ -45,6 +45,7 @@
 
 | Status | Project | Pull request | Date |
 |---|---|---|---|
+| Merged | [Dokploy/website](https://github.com/Dokploy/website) | [#183](https://github.com/Dokploy/website/pull/183) Target the dokploy container in the auth secret migration script | 2026-10-26 |
 | Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#207](https://github.com/CetizionVerifica/ESG-lite_FE/pull/207) [S3-5 follow-up] Spend rows: rate error state, visible field errors, yearly rate date | 2026-10-16 |
 | Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#158](https://github.com/CetizionVerifica/ESG-lite/pull/158) [S3-5 follow-up] Currency rows store fx, stand-in rates re-quoted, lighter FX job | 2026-10-16 |
 | Merged | [embeddedos-org/eOffice](https://github.com/embeddedos-org/eOffice) | [#45](https://github.com/embeddedos-org/eOffice/pull/45) Keep imported note tags from injecting HTML and script | 2026-10-02 |
@@ -133,7 +134,6 @@
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7024](https://github.com/growthbook/growthbook/pull/7024) Reject cron update schedules that run more than once an hour | 2026-09-17 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-09-17 |
 | In review | [Dokploy/website](https://github.com/Dokploy/website) | [#184](https://github.com/Dokploy/website/pull/184) Explain intermittent Bad Gateway for Next.js standalone in Compose | 2026-09-16 |
-| In review | [Dokploy/website](https://github.com/Dokploy/website) | [#183](https://github.com/Dokploy/website/pull/183) Target the dokploy container in the auth secret migration script | 2026-09-16 |
 | In review | [makeplane/plane](https://github.com/makeplane/plane) | [#9844](https://github.com/makeplane/plane/pull/9844) Drop empty CORS origins so the deny-all fallback is reachable | 2026-09-16 |
 | In review | [papra-hq/papra](https://github.com/papra-hq/papra) | [#1522](https://github.com/papra-hq/papra/pull/1522) Declare api key permissions on restore and trash routes | 2026-09-16 |
 | In review | [papra-hq/papra](https://github.com/papra-hq/papra) | [#1521](https://github.com/papra-hq/papra/pull/1521) Say what the memory persistence driver costs on restart | 2026-09-16 |
