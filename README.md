@@ -1,6 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4f8a,100:12c4d7&height=170&section=header&text=Hayyan%20Hajwani&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Full-stack%20engineer%20%C2%B7%20Tech%20Lead%20at%20PlanetPulse&descAlignY=54&descSize=16&animation=none" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4f8a,100:12c4d7&height=170&section=header&text=Hayyan%20Hajwani&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Full-stack%20%26%20AI%20engineer%20%C2%B7%20Tech%20Lead%20at%20PlanetPulse&descAlignY=54&descSize=16&animation=none" alt="" />
 
 <p align="center">
+  <a href="https://hayyan.space"><img src="https://img.shields.io/badge/Portfolio-hayyan.space-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hayyan-hajwani-9671a4160"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hayyan.connect@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Mumbai,%20India-1a4f8a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Mumbai, India" />
@@ -8,11 +9,12 @@
 </p>
 
 <p align="center">
-  I build production systems and run the infrastructure underneath them.<br />
-  <b>Tech Lead at <a href="https://planetpulse.life">PlanetPulse</a></b>, leading a distributed team of six remotely across Austria and India.
+  I build production systems, from AI and RAG backends to web and mobile apps, and run the infrastructure underneath them.<br />
+  <b>Tech Lead at <a href="https://planetpulse.life">PlanetPulse</a></b>, leading a distributed team of six remotely across Austria and India.<br />
+  👉 <b><a href="https://hayyan.space">See my work at hayyan.space</a></b>
 </p>
 
-> Most of my recent work lives in private organisation repositories, so this profile shows less than it should. Happy to walk through any of it.
+> Most of my recent work lives in private organisation repositories, so this profile shows less than it should. The case studies on [hayyan.space](https://hayyan.space) cover it, and I'm happy to walk through any of it.
 
 ---
 
@@ -20,9 +22,11 @@
 
 **🏭 &nbsp;Notch** &nbsp;·&nbsp; a platform manufacturing plants use to report and resolve workplace safety hazards before they cause injuries. Three surfaces, all live in production: a NestJS API, a Next.js console for safety officers, and a React Native app for plant workers. Multi-tenant, with deadline escalation for overdue reports and localisation into 7 languages including right-to-left Arabic.
 
-**🖥️ &nbsp;Infrastructure** &nbsp;·&nbsp; 17 production services across two Linux servers, on Dokploy and Traefik rather than a managed cloud platform. DNS, CDN and email authentication on Cloudflare; offsite backups to Backblaze B2. I also moved the company off paid SaaS subscriptions onto a self-hosted open-source stack covering project management, wiki, password vault, customer support, finance and HR.
+**🖥️ &nbsp;Infrastructure** &nbsp;·&nbsp; 20+ production services across three Linux servers, on Dokploy and Traefik rather than a managed cloud platform. DNS, CDN and email authentication on Cloudflare; offsite backups to Backblaze B2. I also moved the company off paid SaaS subscriptions onto a self-hosted open-source stack covering project management, wiki, password vault, customer support, finance and HR.
 
-**📱 &nbsp;Consulting** &nbsp;·&nbsp; I own a connected-hardware mobile platform end to end for a retained client: roadmap and architecture, hands-on development, code review and releases, the self-hosted infrastructure it runs on, and a typed React Native SDK over the device's Bluetooth Low Energy protocol.
+**🤖 &nbsp;AI systems (Schbang, 2025–26)** &nbsp;·&nbsp; I owned the FastAPI backend for an internal AI assistant: RAG over per-brand Pinecone namespaces, LLM routing across ~9 models, streaming, and document ingestion across 200+ brand playbooks. I built an LLM-judge evaluation service scoring live answers on 7 quality metrics, a LangGraph generation workflow, and a multimodal search platform over creative assets.
+
+**📱 &nbsp;Consulting (Jul–Sep 2026)** &nbsp;·&nbsp; I owned a connected-hardware mobile platform end to end for a client: roadmap and architecture, hands-on development, code review and releases, the self-hosted infrastructure it ran on, and a typed React Native SDK over the device's Bluetooth Low Energy protocol, with 120 unit tests.
 
 ---
 
@@ -217,6 +221,14 @@ Real-time chat as three independent Node.js services behind a Next.js client. Pa
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+
+**AI**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white)
+![DeepEval](https://img.shields.io/badge/LLM%20evals-DeepEval-4B5563?style=for-the-badge&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logoColor=white)
 
 **Infrastructure**
 
