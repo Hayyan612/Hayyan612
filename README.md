@@ -49,6 +49,7 @@
 
 | Status | Project | Pull request | Date |
 |---|---|---|---|
+| Merged | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-11-06 |
 | Merged | [Dokploy/website](https://github.com/Dokploy/website) | [#183](https://github.com/Dokploy/website/pull/183) Target the dokploy container in the auth secret migration script | 2026-10-26 |
 | Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#207](https://github.com/CetizionVerifica/ESG-lite_FE/pull/207) [S3-5 follow-up] Spend rows: rate error state, visible field errors, yearly rate date | 2026-10-16 |
 | Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#158](https://github.com/CetizionVerifica/ESG-lite/pull/158) [S3-5 follow-up] Currency rows store fx, stand-in rates re-quoted, lighter FX job | 2026-10-16 |
@@ -133,10 +134,9 @@
 | Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#29](https://github.com/CetizionVerifica/ESG-lite_FE/pull/29) Feat/sheet cycle 2 | 2026-03-19 |
 | Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#9](https://github.com/CetizionVerifica/python_AI_service/pull/9) Feat/sheet cycle 2 | 2026-03-19 |
 | Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#18](https://github.com/CetizionVerifica/ESG-lite/pull/18) Feat/sheet cycle 2 | 2026-03-19 |
-| Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#14](https://github.com/CetizionVerifica/ESG-lite/pull/14) Fix 413 payload too large on auto-generate column config confirm | 2026-03-14 |
+| In review | [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | [#5984](https://github.com/Dokploy/dokploy/pull/5984) Write the compose file directly instead of inlining it in the deploy script | 2026-11-12 |
 | In review | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#230](https://github.com/CetizionVerifica/cetizion-tracker/pull/230) No attachment of any message was ever stored | 2026-10-08 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7024](https://github.com/growthbook/growthbook/pull/7024) Reject cron update schedules that run more than once an hour | 2026-09-17 |
-| In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-09-17 |
 | In review | [Dokploy/website](https://github.com/Dokploy/website) | [#184](https://github.com/Dokploy/website/pull/184) Explain intermittent Bad Gateway for Next.js standalone in Compose | 2026-09-16 |
 | In review | [makeplane/plane](https://github.com/makeplane/plane) | [#9844](https://github.com/makeplane/plane/pull/9844) Drop empty CORS origins so the deny-all fallback is reachable | 2026-09-16 |
 | In review | [papra-hq/papra](https://github.com/papra-hq/papra) | [#1522](https://github.com/papra-hq/papra/pull/1522) Declare api key permissions on restore and trash routes | 2026-09-16 |
