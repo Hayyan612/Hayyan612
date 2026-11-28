@@ -38,7 +38,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/oss-light.svg" />
-    <img alt="Open source: 86 merged and 10 in review pull requests" src="assets/oss-light.svg" width="100%" />
+    <img alt="Open source: 88 merged and 9 in review pull requests" src="assets/oss-light.svg" width="100%" />
   </picture>
 </a>
 
@@ -49,6 +49,8 @@
 
 | Status | Project | Pull request | Date |
 |---|---|---|---|
+| Merged | [LakshanSivakumar/Native-Victory-macOS](https://github.com/LakshanSivakumar/Native-Victory-macOS) | [#469](https://github.com/LakshanSivakumar/Native-Victory-macOS/pull/469) VICTORY_TEXTURE_DROP_TOP_MIP=2 also drops a second level of very large textures | 2026-11-28 |
+| Merged | [LakshanSivakumar/Native-Victory-macOS](https://github.com/LakshanSivakumar/Native-Victory-macOS) | [#348](https://github.com/LakshanSivakumar/Native-Victory-macOS/pull/348) Optional top-mip drop for large sampled textures (#8) | 2026-11-27 |
 | Merged | [papra-hq/papra](https://github.com/papra-hq/papra) | [#1521](https://github.com/papra-hq/papra/pull/1521) Say what the memory persistence driver costs on restart | 2026-11-26 |
 | Merged | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7023](https://github.com/growthbook/growthbook/pull/7023) Remove deleted features and experiments from watch lists | 2026-11-06 |
 | Merged | [Dokploy/website](https://github.com/Dokploy/website) | [#183](https://github.com/Dokploy/website/pull/183) Target the dokploy container in the auth secret migration script | 2026-10-26 |
@@ -135,7 +137,6 @@
 | Merged | [CetizionVerifica/ESG-lite_FE](https://github.com/CetizionVerifica/ESG-lite_FE) | [#29](https://github.com/CetizionVerifica/ESG-lite_FE/pull/29) Feat/sheet cycle 2 | 2026-03-19 |
 | Merged | [CetizionVerifica/python_AI_service](https://github.com/CetizionVerifica/python_AI_service) | [#9](https://github.com/CetizionVerifica/python_AI_service/pull/9) Feat/sheet cycle 2 | 2026-03-19 |
 | Merged | [CetizionVerifica/ESG-lite](https://github.com/CetizionVerifica/ESG-lite) | [#18](https://github.com/CetizionVerifica/ESG-lite/pull/18) Feat/sheet cycle 2 | 2026-03-19 |
-| In review | [LakshanSivakumar/Native-Victory-macOS](https://github.com/LakshanSivakumar/Native-Victory-macOS) | [#348](https://github.com/LakshanSivakumar/Native-Victory-macOS/pull/348) Optional top-mip drop for large sampled textures (#8) | 2026-11-27 |
 | In review | [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | [#5984](https://github.com/Dokploy/dokploy/pull/5984) Write the compose file directly instead of inlining it in the deploy script | 2026-11-12 |
 | In review | [CetizionVerifica/cetizion-tracker](https://github.com/CetizionVerifica/cetizion-tracker) | [#230](https://github.com/CetizionVerifica/cetizion-tracker/pull/230) No attachment of any message was ever stored | 2026-10-08 |
 | In review | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [#7024](https://github.com/growthbook/growthbook/pull/7024) Reject cron update schedules that run more than once an hour | 2026-09-17 |
